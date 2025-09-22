@@ -1,0 +1,14 @@
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\bin\Debug\AlbatrosArayuz.exe.config
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\bin\Debug\AlbatrosArayuz.exe
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\bin\Debug\AlbatrosArayuz.pdb
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.csproj.AssemblyReference.cache
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\MainWindow.baml
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\MainWindow.g.cs
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\App.g.cs
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz_MarkupCompile.cache
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.g.resources
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.Properties.Resources.resources
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.csproj.GenerateResource.cache
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.csproj.CoreCompileInputs.cache
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.exe
+C:\Users\doguo\source\repos\AlbatrosArayuz\AlbatrosArayuz\obj\Debug\AlbatrosArayuz.pdb
